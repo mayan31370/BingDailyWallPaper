@@ -1,0 +1,2 @@
+# BingDailyWallPaper
+每日自动更新获取Bing壁纸真实地址
